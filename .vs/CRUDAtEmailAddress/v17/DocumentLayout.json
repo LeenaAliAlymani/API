@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LinaAlyamani\\source\\repos\\CRUDAtEmailAddress\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6D3B57-035A-441A-9BCD-A31319062A58}|CRUDAtEmailAddress\\CRUDAtContactType.csproj|c:\\users\\linaalyamani\\source\\repos\\crudatemailaddress\\crudatemailaddress\\repositories\\contacttypesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6D3B57-035A-441A-9BCD-A31319062A58}|CRUDAtEmailAddress\\CRUDAtContactType.csproj|solutionrelative:crudatemailaddress\\repositories\\contacttypesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6D3B57-035A-441A-9BCD-A31319062A58}|CRUDAtEmailAddress\\CRUDAtContactType.csproj|c:\\users\\linaalyamani\\source\\repos\\crudatemailaddress\\crudatemailaddress\\adventureworks2022context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6D3B57-035A-441A-9BCD-A31319062A58}|CRUDAtEmailAddress\\CRUDAtContactType.csproj|solutionrelative:crudatemailaddress\\adventureworks2022context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6D3B57-035A-441A-9BCD-A31319062A58}|CRUDAtEmailAddress\\CRUDAtContactType.csproj|c:\\users\\linaalyamani\\source\\repos\\crudatemailaddress\\crudatemailaddress\\controllers\\contacttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6D3B57-035A-441A-9BCD-A31319062A58}|CRUDAtEmailAddress\\CRUDAtContactType.csproj|solutionrelative:crudatemailaddress\\controllers\\contacttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6D3B57-035A-441A-9BCD-A31319062A58}|CRUDAtEmailAddress\\CRUDAtContactType.csproj|c:\\users\\linaalyamani\\source\\repos\\crudatemailaddress\\crudatemailaddress\\custommodel\\contacttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6D3B57-035A-441A-9BCD-A31319062A58}|CRUDAtEmailAddress\\CRUDAtContactType.csproj|solutionrelative:crudatemailaddress\\custommodel\\contacttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6D3B57-035A-441A-9BCD-A31319062A58}|CRUDAtEmailAddress\\CRUDAtContactType.csproj|c:\\users\\linaalyamani\\source\\repos\\crudatemailaddress\\crudatemailaddress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6D3B57-035A-441A-9BCD-A31319062A58}|CRUDAtEmailAddress\\CRUDAtContactType.csproj|solutionrelative:crudatemailaddress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactTypesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\CRUDAtEmailAddress\\CRUDAtEmailAddress\\Repositories\\ContactTypesRepository.cs",
+              "RelativeDocumentMoniker": "CRUDAtEmailAddress\\Repositories\\ContactTypesRepository.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\CRUDAtEmailAddress\\CRUDAtEmailAddress\\Repositories\\ContactTypesRepository.cs",
+              "RelativeToolTip": "CRUDAtEmailAddress\\Repositories\\ContactTypesRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:28:19.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdventureWorks2022Context.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\CRUDAtEmailAddress\\CRUDAtEmailAddress\\AdventureWorks2022Context.cs",
+              "RelativeDocumentMoniker": "CRUDAtEmailAddress\\AdventureWorks2022Context.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\CRUDAtEmailAddress\\CRUDAtEmailAddress\\AdventureWorks2022Context.cs",
+              "RelativeToolTip": "CRUDAtEmailAddress\\AdventureWorks2022Context.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:01:49.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\CRUDAtEmailAddress\\CRUDAtEmailAddress\\Controllers\\ContactTypeController.cs",
+              "RelativeDocumentMoniker": "CRUDAtEmailAddress\\Controllers\\ContactTypeController.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\CRUDAtEmailAddress\\CRUDAtEmailAddress\\Controllers\\ContactTypeController.cs",
+              "RelativeToolTip": "CRUDAtEmailAddress\\Controllers\\ContactTypeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:01:41.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\CRUDAtEmailAddress\\CRUDAtEmailAddress\\CustomModel\\ContactTypeDto.cs",
+              "RelativeDocumentMoniker": "CRUDAtEmailAddress\\CustomModel\\ContactTypeDto.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\CRUDAtEmailAddress\\CRUDAtEmailAddress\\CustomModel\\ContactTypeDto.cs",
+              "RelativeToolTip": "CRUDAtEmailAddress\\CustomModel\\ContactTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:01:35.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LinaAlyamani\\source\\repos\\CRUDAtEmailAddress\\CRUDAtEmailAddress\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDAtEmailAddress\\Program.cs",
+              "ToolTip": "C:\\Users\\LinaAlyamani\\source\\repos\\CRUDAtEmailAddress\\CRUDAtEmailAddress\\Program.cs",
+              "RelativeToolTip": "CRUDAtEmailAddress\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:23:48.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
